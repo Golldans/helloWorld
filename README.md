@@ -1,3 +1,3 @@
 # helloWorld
-Aprendendo git \n
+Aprendendo git 
 Gostou da mudança?
